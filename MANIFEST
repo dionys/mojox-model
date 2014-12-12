@@ -1,0 +1,13 @@
+Changes
+lib/Mojolicious/Plugin/Model.pm
+lib/MojoX/Model.pm
+lib/MojoX/Models.pm
+MANIFEST
+MANIFEST.SKIP
+Makefile.PL
+README
+t/00-use.t
+t/90-pod.t
+t/91-pod-coverage.t
+t/92-manifest.t
+t/93-changes.t
